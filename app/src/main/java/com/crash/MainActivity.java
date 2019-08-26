@@ -8,6 +8,7 @@ import android.widget.TextView;
 
 import java.io.File;
 import java.io.FileOutputStream;
+import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
     private TextView tvCrashView;
