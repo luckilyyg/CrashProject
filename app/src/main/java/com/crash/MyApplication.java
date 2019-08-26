@@ -2,7 +2,7 @@ package com.crash;
 
 import android.app.Application;
 
-import com.crash.util.CrashHandler;
+
 
 /**
  * Created on 2019/6/10 10:56
