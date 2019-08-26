@@ -161,6 +161,7 @@ public class CrashHandler implements UncaughtExceptionHandler {
 
     private void uploadExceptionToServer() {
         //TODO Upload Exception Message To Your Web Server
+        //将错误日志发送给后台
     }
 
 
